@@ -1,6 +1,3 @@
-Here’s a polished **Emailing by Java README** for your repository, aligned with your previous style and including links to prerequisites:
-
----
 
 <h1 align="center">Emailing by Java</h1>
 
